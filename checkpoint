@@ -1,0 +1,2 @@
+model_checkpoint_path: "TS_saved"
+all_model_checkpoint_paths: "TS_saved"
