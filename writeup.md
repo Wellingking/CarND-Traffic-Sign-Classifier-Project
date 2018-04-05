@@ -85,3 +85,4 @@ About the architecture was chosen:
 #### I Choose five German traffic signs found on the web and test with program well.
 
 The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. This compares favorably to the accuracy on the test set of `0.906`.
+
